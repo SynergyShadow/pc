@@ -1,10 +1,10 @@
-# Particle Core 0.3.3
+# Particle Core 0.3.4
 
 ### Additions
 * None.
 
 ### Changes
-* None.
+* Ported to Minecraft 26.3
 
 ### Fixes
-* Fix crashes with particles that use a custom `VertexConsumer` that isn't a `BufferBuilder`
+* Fix open-air particle collision optimization not applying since 26.2
